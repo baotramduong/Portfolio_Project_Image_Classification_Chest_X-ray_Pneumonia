@@ -10,14 +10,14 @@ There are 5 deliverables for this project:
 
             - Part I: EDA
             
-            - Part IIA: Models
+            - Part II: Models
            
 2. An organized README.md file that describes the contents of the repository.
 
              - README.md: describes the content and organization of content.
              - Data & Figures folder: contains all provided data and all figures for visualization.
              - Part I: Jupyter notebook
-             - Part IIA: Jupyter notebook
+             - Part II: Jupyter notebook
              - Presentation pdf
 
 3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. Can be found in the repository or at: 
