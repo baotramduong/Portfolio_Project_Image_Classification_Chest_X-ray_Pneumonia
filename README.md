@@ -8,9 +8,7 @@ There are 5 deliverables for this project:
 
 1. A well documented Jupyter Notebook containing any code and comments explaining it.
 
-            - Part I: EDA
-            
-            - Part II: Models
+            - Image Classification with Deep Learning
            
 2. An organized README.md file that describes the contents of the repository.
 
