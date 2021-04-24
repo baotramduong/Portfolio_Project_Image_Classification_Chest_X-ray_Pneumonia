@@ -53,6 +53,7 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 ### Convolution Neural Network Model
 
 <img src = '../main/Data & Figures/cnn_model_acc_loss.png' />
+
 **Train loss & accuracy of the model: [0.2301289588212967, 0.907975435256958]**
 
 **Test loss & accuracy of the model is: [0.29440099000930786, 0.870192289352417]**
