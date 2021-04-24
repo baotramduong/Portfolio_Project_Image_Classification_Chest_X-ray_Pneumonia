@@ -28,6 +28,11 @@ There are 5 deliverables for this project:
 
 ## PART I: EDA
 
+<img src = '../main/Data & Figures/X-ray.png' />
+
+
+<img src = '../main/Data & Figures/X-ray Condition.png' />
+
 ### Data Source
 
              - https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
