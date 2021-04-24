@@ -46,22 +46,14 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 ### Multilayer Perceptron Model
 <img src = '../main/Data & Figures/mlp_model_acc_loss.png' />
 
-163/163 [==============================] - 0s 2ms/step - loss: 0.0606 - acc: 0.9776
-
 **Train loss & accuracy of the model: [0.060579925775527954, 0.977569043636322]**
-
-20/20 [==============================] - 0s 1ms/step - loss: 1.1344 - acc: 0.7372
 
 **Test loss & accuracy of the model is: [1.134368658065796, 0.7371794581413269]**
 
 ### Convolution Neural Network Model
 
 <img src = '../main/Data & Figures/cnn_model_acc_loss.png' />
-163/163 [==============================] - 94s 576ms/step - loss: 0.2301 - acc: 0.9080
-
 **Train loss & accuracy of the model: [0.2301289588212967, 0.907975435256958]**
-
-20/20 [==============================] - 8s 406ms/step - loss: 0.2944 - acc: 0.8702
 
 **Test loss & accuracy of the model is: [0.29440099000930786, 0.870192289352417]**
 
@@ -69,11 +61,7 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 <img src = '../main/Data & Figures/VGG16_cnn_model_acc_loss.png' />
 
-163/163 [==============================] - 629s 4s/step - loss: 0.1416 - acc: 0.9503
-
 **Train loss & accuracy of the model: [0.14156349003314972, 0.9503450989723206]**
-
-20/20 [==============================] - 73s 4s/step - loss: 0.2886 - acc: 0.9006
 
 **Test loss & accuracy of the model is: [0.28859254717826843, 0.9006410241127014]**
 
