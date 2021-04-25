@@ -73,7 +73,7 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 |      |Model                             |Evaluate acc|Predict acc|Precision|Recall|F1 Score|AUC |
 |------|----------------------------------|------------|-----------|---------|------|--------|----|
-|0     |Multilayer Perceptron Model       |0.75        |0.75       |0.84     |0.67  |0.68    |0.67|
+|0     |Multilayer Perceptron Model       |0.82        |0.82       |0.85     |0.78  |0.79    |0.77|
 |1     |Convolutional Neural Network Model|0.88        |0.55       |0.52     |0.52  |0.52    |0.52|
 |2     |Transfer Learning: VGG16 CNN Model|0.91        |0.52       |0.48     |0.48  |0.48    |0.48|
 
