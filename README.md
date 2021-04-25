@@ -81,6 +81,3 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 ##  Summary of Actionable Insights
 
 ##  Future Works
-
-1. Correct class imbalance with oversampling technique
-2. 
