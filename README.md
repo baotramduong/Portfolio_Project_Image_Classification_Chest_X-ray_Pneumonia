@@ -49,25 +49,25 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 ### Multilayer Perceptron Model
 <img src = '../main/Data & Figures/mlp_model_acc_loss.png' />
 
-**Train loss & accuracy of the model: [0.060579925775527954, 0.977569043636322]**
+**Train loss & accuracy of the model: [0.07288116216659546, 0.974693238735199]**
 
-**Test loss & accuracy of the model is: [1.134368658065796, 0.7371794581413269]**
+**Test loss & accuracy of the model is: [0.9555945992469788, 0.7532051205635071]**
 
 ### Convolution Neural Network Model
 
 <img src = '../main/Data & Figures/cnn_model_acc_loss.png' />
 
-**Train loss & accuracy of the model: [0.2301289588212967, 0.907975435256958]**
+**Train loss & accuracy of the model: [0.25476858019828796, 0.8861196041107178]**
 
-**Test loss & accuracy of the model is: [0.29440099000930786, 0.870192289352417]**
+**Test loss & accuracy of the model is: [0.3085976541042328, 0.875]**
 
 ### Transfer Learning with VGG16
 
 <img src = '../main/Data & Figures/VGG16_cnn_model_acc_loss.png' />
 
-**Train loss & accuracy of the model: [0.14156349003314972, 0.9503450989723206]**
+**Train loss & accuracy of the model: [0.14143085479736328, 0.9453604221343994]**
 
-**Test loss & accuracy of the model is: [0.28859254717826843, 0.9006410241127014]**
+**Test loss & accuracy of the model is: [0.23637154698371887, 0.9102563858032227]**
 
 ##  Summary of Key Findings
 
@@ -75,7 +75,7 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 |------|----------------------------------|------------|-----------|---------|------|--------|----|
 |0     |Multilayer Perceptron Model       |0.75        |0.75       |0.84     |0.67  |0.68    |0.67|
 |1     |Convolutional Neural Network Model|0.88        |0.55       |0.52     |0.52  |0.52    |0.52|
-|2     |Transfer Learning: VGG16 CNN Model|0.88        |0.52       |0.48     |0.48  |0.48    |0.48|
+|2     |Transfer Learning: VGG16 CNN Model|0.91        |0.52       |0.48     |0.48  |0.48    |0.48|
 
 
 ##  Summary of Actionable Insights
