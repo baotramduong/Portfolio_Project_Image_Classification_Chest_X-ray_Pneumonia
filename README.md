@@ -60,6 +60,10 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 **Test loss & accuracy of the model is: [0.9555945992469788, 0.7532051205635071]**
 
+<img src = '../main/Data & Figures/mlp_model_cm.png' width='50%' height='50%'>
+
+<img src = '../main/Data & Figures/mlp_model_roc.png' width='75%' height='75%'>
+
 ### Convolution Neural Network Model
 
 <img src = '../main/Data & Figures/cnn_model_acc_loss.png' />
@@ -68,6 +72,10 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 **Test loss & accuracy of the model is: [0.3085976541042328, 0.875]**
 
+<img src = '../main/Data & Figures/cnn_model_cm.png' width='50%' height='50%'>
+
+<img src = '../main/Data & Figures/cnn_model_roc.png'  width='75%' height='75%'>
+
 ### Transfer Learning with VGG16
 
 <img src = '../main/Data & Figures/VGG16_cnn_model_acc_loss.png' />
@@ -75,6 +83,10 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 **Train loss & accuracy of the model: [0.14143085479736328, 0.9453604221343994]**
 
 **Test loss & accuracy of the model is: [0.23637154698371887, 0.9102563858032227]**
+
+<img src = '../main/Data & Figures/VGG16_cnn_model_cm.png' width='50%' height='50%'>
+
+<img src = '../main/Data & Figures/VGG16_cnn_model_roc.png'  width='75%' height='75%'>
 
 ##  Summary of Key Findings
 
