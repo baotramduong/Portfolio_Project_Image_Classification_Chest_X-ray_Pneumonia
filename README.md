@@ -20,6 +20,13 @@ There are 5 deliverables for this project:
              - Data & Figures folder: contains all provided data and all figures for visualization.
              - Part I: Jupyter notebook
              - Part II: Jupyter notebook
+             
+             * validation_date = test_generator:
+             https://www.kaggle.com/baotramduong/x-ray-pneumonia-classification-test
+             
+             * validation_data = val_generator:
+             https://www.kaggle.com/baotramduong/x-ray-pneumonia-image-classification-val
+             
              - Presentation pdf
 
 3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. Can be found in the repository or at: 
