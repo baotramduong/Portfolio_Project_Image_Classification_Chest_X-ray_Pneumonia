@@ -18,8 +18,7 @@ There are 5 deliverables for this project:
 
              - README.md: describes the content and organization of content.
              - Data & Figures folder: contains all provided data and all figures for visualization.
-             - Part I: Jupyter notebook
-             - Part II: Jupyter notebook
+             - Jupyter notebook
              
              * validation_date = test_generator:
              https://www.kaggle.com/baotramduong/x-ray-pneumonia-classification-test
