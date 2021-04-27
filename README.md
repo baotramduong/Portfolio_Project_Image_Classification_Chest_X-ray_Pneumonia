@@ -64,7 +64,7 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 <img src = '../main/Data & Figures/mlp_model_roc.png' width='75%' height='75%'>
 
-### Convolution Neural Network Model
+### Convolutional Neural Network Model
 
 <img src = '../main/Data & Figures/cnn_model_acc_loss.png' />
 
