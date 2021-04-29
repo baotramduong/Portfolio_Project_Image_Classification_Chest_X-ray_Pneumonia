@@ -11,21 +11,14 @@ Chest X-rays are primarily used for the diagnosis of this disease. However, even
 There are 5 deliverables for this project:
 
 1. A well documented Jupyter Notebook containing any code and comments explaining it.
-
-            - Image Classification with Deep Learning
            
 2. An organized README.md file that describes the contents of the repository.
 
              - README.md: describes the content and organization of content.
              - Data & Figures folder: contains all provided data and all figures for visualization.
              - Jupyter notebook
-             
-             * validation_date = test_generator:
-             https://www.kaggle.com/baotramduong/x-ray-pneumonia-classification-test
-             
-             * validation_data = val_generator:
-             https://www.kaggle.com/baotramduong/x-ray-pneumonia-image-classification-val
-             
+                        * Notebook (validation_data = val_generator)
+                        * Notebook (validation_data = test_generator)
              - Presentation pdf
 
 3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. Can be found in the repository or at: 
