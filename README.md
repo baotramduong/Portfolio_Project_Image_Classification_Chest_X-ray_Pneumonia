@@ -48,9 +48,9 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 ### Multilayer Perceptron Model
 <img src = '../main/Data & Figures/mlp_model_acc_loss.png' />
 
-**Train loss & accuracy of the model: [0.07288116216659546, 0.974693238735199]**
+**Train loss & accuracy: [0.06599460542201996, 0.9760352969169617]**
 
-**Test loss & accuracy of the model is: [0.9555945992469788, 0.7532051205635071]**
+**Test loss & accuracy: [1.1213278770446777, 0.7403846383094788]**
 
 <img src = '../main/Data & Figures/mlp_model_cm.png' width='50%' height='50%'>
 
@@ -60,9 +60,9 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 <img src = '../main/Data & Figures/cnn_model_acc_loss.png' />
 
-**Train loss & accuracy of the model: [0.25476858019828796, 0.8861196041107178]**
+**Train loss & accuracy: [0.18849782645702362, 0.9246549010276794]**
 
-**Test loss & accuracy of the model is: [0.3085976541042328, 0.875]**
+**Test loss & accuracy: [0.3202977180480957, 0.8830128312110901]**
 
 <img src = '../main/Data & Figures/cnn_model_cm.png' width='50%' height='50%'>
 
@@ -72,9 +72,9 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 <img src = '../main/Data & Figures/VGG16_cnn_model_acc_loss.png' />
 
-**Train loss & accuracy of the model: [0.14143085479736328, 0.9453604221343994]**
+**Train loss & accuracy: [0.12452378123998642, 0.9516870975494385]**
 
-**Test loss & accuracy of the model is: [0.23637154698371887, 0.9102563858032227]**
+**Test loss & accuracy: [0.24364535510540009, 0.9150640964508057]**
 
 <img src = '../main/Data & Figures/VGG16_cnn_model_cm.png' width='50%' height='50%'>
 
@@ -82,11 +82,11 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 ##  Summary of Key Findings
 
-|      |Model                             |Evaluate acc|Predict acc|Precision|Recall|F1 Score|AUC |
-|------|----------------------------------|------------|-----------|---------|------|--------|----|
-|0     |Multilayer Perceptron Model       |0.82        |0.82       |0.85     |0.78  |0.79    |0.77|
-|1     |Convolutional Neural Network Model|0.88        |0.55       |0.52     |0.52  |0.52    |0.52|
-|2     |Transfer Learning: VGG16 CNN Model|0.91        |0.52       |0.48     |0.48  |0.48    |0.48|
+|      |Model                             |Accuracy|Precision|Recall|F1 Score|AUC |
+|------|----------------------------------|--------|---------|------|--------|----|
+|0     |Multilayer Perceptron Model       |0.74    |0.83     |0.66  |0.66    |0.66|
+|1     |Convolutional Neural Network Model|0.88    |0.89     |0.86  |0.87    |0.86|
+|2     |Transfer Learning: VGG16 CNN Model|0.92    |0.92     |0.90  |0.91    |0.90|
 
 
 ##  Summary of Actionable Insights
