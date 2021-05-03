@@ -96,3 +96,6 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 ##  Summary of Actionable Insights
 
 ##  Future Works
+1. Build a multi-class classification deep learning model to distinguish between Normal, Viral Pneumonia, and Bacterial Pneumonia
+2. Combine CNN models with other classifiers such as Support Vector Machine (SVM)
+3. Tune parameters such as learning rate, batch size, try another optimizer, number of layers, different types of layer, number of neurons per layer, and the type of activation functions for each layer. GridSearchCV or RandomizedSearchSV can be used to achieve this.
