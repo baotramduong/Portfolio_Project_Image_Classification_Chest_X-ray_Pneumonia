@@ -18,11 +18,8 @@ Original notebook on Kaggle: https://www.kaggle.com/baotramduong/x-ray-pneumonia
            
 2. An organized README.md file that describes the contents of the repository.
 
-             - README.md: describes the content and organization of content.
              - Data & Figures folder: contains all provided data and all figures for visualization.
              - Jupyter notebook
-                        * Notebook (validation_data = val_generator)
-                        * Notebook (validation_data = test_generator)
              - Presentation pdf
 
 3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. Can be found in the repository or at: 
