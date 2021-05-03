@@ -1,10 +1,12 @@
 # X-ray Pneumonia Image Classification with Deep Learning 
 
+According to Unicef (2021):
 * Globally, a child dies of pneumonia every 39 seconds.
-* Pneumonia kills more children than any other infectious disease, claiming the lives of over 800,000 children under five every year, or around 2,200 every day. This includes over 153,000 newborns.
-* Pneumonia is a leading cause of morbidity and mortality in children younger than the age of 5 years.
+* Pneumonia claims the lives of over 800,000 children under five every year, or around 2,200 every day. This includes over 153,000 newborns.
+* Pneumonia is a leading cause of morbidity and mortality in children younger than the age of 5 years, killing more children than HIV/AIDS, malaria, and measles combined.
 
-Chest X-rays are primarily used for the diagnosis of this disease. However, even for a trained radiologist, it is a challenging task to examine chest X-rays. For this project, we will build a model that can classify whether a given patient has pneumonia, given a chest x-ray image.
+Chest X-rays are primarily used for the diagnosis of this disease. However, even for a trained radiologist, it is a challenging task to examine chest X-rays.
+To solve this, deep learning (DL), a branch of machine learning (ML), inspired by the make-up of the human brain, are developed to detect hidden features in images which are not apparent or cannot be detected even by medical experts. With AI system aiding medical experts in expediting the diagnosis, earlier treatment can be prescribed, resulting in improved clinical outcomes.
 
 ## The Deliverables
 
