@@ -25,6 +25,8 @@ There are 5 deliverables for this project:
 
 4. A Blog Post which can be found at: 
 
+https://baotramduong.medium.com/x-ray-pneumonia-classification-with-deep-learning-6a81861150a1
+
 5. A Video Walkthrough of my non-technical presentation, can be found at:
 
 # **Notebook Table of Contents**
