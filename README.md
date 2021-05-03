@@ -11,6 +11,8 @@ Chest X-rays are primarily used for the diagnosis of this disease. However, even
 There are 5 deliverables for this project:
 
 1. A well documented Jupyter Notebook containing any code and comments explaining it.
+
+Original notebook on Kaggle: https://www.kaggle.com/baotramduong/x-ray-pneumonia-classification-test/edit/run/61282077
            
 2. An organized README.md file that describes the contents of the repository.
 
