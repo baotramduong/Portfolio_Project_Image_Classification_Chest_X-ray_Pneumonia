@@ -18,9 +18,7 @@ Original notebook on Kaggle: https://www.kaggle.com/baotramduong/x-ray-pneumonia
            
 2. An organized README.md file that describes the contents of the repository.
 
-             - Data & Figures folder: contains all provided data and all figures for visualization.
-             - Jupyter notebook
-             - Presentation pdf
+https://github.com/baotramduong/Portfolio_Project_Deep_Learning_Image_Classification/blob/main/README.md
 
 3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. Can be found in the repository or at: 
 
