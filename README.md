@@ -14,7 +14,7 @@ There are 5 deliverables for this project:
 
 1. A well documented Jupyter Notebook containing any code and comments explaining it.
 
-Original notebook on Kaggle: https://www.kaggle.com/baotramduong/x-ray-pneumonia-classification-test
+Original notebook on Kaggle: https://www.kaggle.com/baotramduong/deep-learning-mlp-cnn-transfer-learning-92-acc
            
 2. An organized README.md file that describes the contents of the repository.
 
