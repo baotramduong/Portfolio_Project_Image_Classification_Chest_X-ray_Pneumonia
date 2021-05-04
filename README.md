@@ -54,9 +54,9 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 <img src = '../main/Data & Figures/mlp_model_acc_loss.png' />
 
-**Train loss & accuracy: [0.07, 0.98]**
+**Train loss & accuracy: [0.08716818690299988, 0.9675996899604797]**
 
-**Test loss & accuracy: [1.13, 0.74]**
+**Test loss & accuracy: [0.7084700465202332, 0.7948718070983887]**
 
 <img src = '../main/Data & Figures/mlp_model_cm.png' width='50%' height='50%'>
 
@@ -68,9 +68,9 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 <img src = '../main/Data & Figures/cnn_model_acc_loss.png' />
 
-**Train loss & accuracy: [0.19, 0.92]**
+**Train loss & accuracy: [0.18603405356407166, 0.9273389577865601]**
 
-**Test loss & accuracy: [0.32, 0.88]**
+**Test loss & accuracy: [0.3564613461494446, 0.8766025900840759]**
 
 <img src = '../main/Data & Figures/cnn_model_cm.png' width='50%' height='50%'>
 
@@ -82,9 +82,9 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 <img src = '../main/Data & Figures/VGG16_cnn_model_acc_loss.png' />
 
-**Train loss & accuracy: [0.12, 0.95]**
+**Train loss & accuracy: [0.13685134053230286, 0.9465107321739197]**
 
-**Test loss & accuracy: [0.24, 0.92]**
+**Test loss & accuracy: [00.23303863406181335, 0.9150640964508057]**
 
 <img src = '../main/Data & Figures/VGG16_cnn_model_cm.png' width='50%' height='50%'>
 
