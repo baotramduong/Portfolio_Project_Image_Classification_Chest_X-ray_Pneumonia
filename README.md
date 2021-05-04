@@ -49,6 +49,9 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 ## PART II: Modeling
 
 ### Multilayer Perceptron Model
+
+<img src = '../main/Data & Figures/mlp_model_plot.png' width='50%' height='50%'>
+
 <img src = '../main/Data & Figures/mlp_model_acc_loss.png' />
 
 **Train loss & accuracy: [0.07, 0.98]**
@@ -61,6 +64,8 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 ### Convolutional Neural Network Model
 
+<img src = '../main/Data & Figures/cnn_model_plot.png' width='50%' height='50%'>
+
 <img src = '../main/Data & Figures/cnn_model_acc_loss.png' />
 
 **Train loss & accuracy: [0.19, 0.92]**
@@ -72,6 +77,8 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 <img src = '../main/Data & Figures/cnn_model_roc.png'  width='75%' height='75%'>
 
 ### Transfer Learning with VGG16
+
+<img src = '../main/Data & Figures/pretrainedCNN_model_plot.png' width='50%' height='50%'>
 
 <img src = '../main/Data & Figures/VGG16_cnn_model_acc_loss.png' />
 
