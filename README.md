@@ -101,7 +101,24 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 ##  Summary of Actionable Insights
 
+Pneumonia are largely preventable in this age group and failure in long-term management or preventing it will result in increases of the risk of developing chronic pulmonary disorders in later adult life. Chang et al. (2013) suggests:
+
+1. Focus on solving problems that are associated with increasing the risk of pneumonia such as overcrowding, access to clean water, malnutrition, anemia, young maternal age, low birth weight, and exposure to tobacco smoke and other environmental pollutants
+2. Invest in resources to collect data systematically, especially in poor countries
+3. Develop a universally agreed diagnostic gold standard for childhood pneumonia, especially one that can also differentiate between bacterial and non-bacterial pneumonia, which is currently a major limitation in clinical research in this area
+
 ##  Future Works
+
 1. Build a multi-class classification deep learning model to distinguish between Normal, Viral Pneumonia, and Bacterial Pneumonia
 2. Combine CNN models with other classifiers such as Support Vector Machine (SVM)
 3. Tune parameters such as learning rate, batch size, try another optimizer, number of layers, different types of layer, number of neurons per layer, and the type of activation functions for each layer. GridSearchCV or RandomizedSearchSV can be used to achieve this.
+
+## Reference
+
+Chang, A. B., Ooi, M. H., Perera, D., & Grimwood, K. (2013). Improving the Diagnosis, Management, and Outcomes of Children with Pneumonia: Where are the Gaps?. Frontiers in pediatrics, 1, 29. https://doi.org/10.3389/fped.2013.00029
+
+Geron, A. (2019). Hands-on machine learning with Scikit-Learn, Keras and TensorFlow: concepts, tools, and techniques to build intelligent systems (2nd ed.). O’Reilly.
+
+Kermany, D. S., Goldbaum, M., Cai, W., Valentim, C., Liang, H., Baxter, S. L., McKeown, A., Yang, G., Wu, X., Yan, F., Dong, J., Prasadha, M. K., Pei, J., Ting, M., Zhu, J., Li, C., Hewett, S., Dong, J., Ziyar, I., Shi, A., … Zhang, K. (2018). Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning. Cell, 172(5), 1122–1131.e9. https://doi.org/10.1016/j.cell.2018.02.010
+
+Unicef. (2021, April 07). Pneumonia in children statistics. Retrieved April 13, 2021, from https://data.unicef.org/topic/child-health/pneumonia/#:~:text=A%20child%20dies%20of%20pneumonia,of%20these%20deaths%20are%20preventable.
