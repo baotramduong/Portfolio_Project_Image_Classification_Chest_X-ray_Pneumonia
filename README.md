@@ -18,8 +18,6 @@ Original notebook on Kaggle: https://www.kaggle.com/baotramduong/deep-learning-m
            
 2. An organized README.md file that describes the contents of the repository.
 
-https://github.com/baotramduong/Portfolio_Project_Deep_Learning_Image_Classification/blob/main/README.md
-
 3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. 
 
 https://github.com/baotramduong/Portfolio_Project_Deep_Learning_Image_Classification/blob/main/Presentation.pdf
