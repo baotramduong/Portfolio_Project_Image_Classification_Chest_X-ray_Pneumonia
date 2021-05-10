@@ -28,6 +28,8 @@ https://baotramduong.medium.com/x-ray-pneumonia-classification-with-deep-learnin
 
 5. A Video Walkthrough of my non-technical presentation, can be found at:
 
+https://youtu.be/yGBB_ZeWuds
+
 # **Notebook Table of Contents**
 
 ## PART I: EDA
