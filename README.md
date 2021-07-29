@@ -1,4 +1,4 @@
-# X-ray Pneumonia Image Classification with Deep Learning 
+# X-ray Pneumonia Image Classification with Deep Learning  
 
 According to Unicef (2021):
 * Globally, a child dies of pneumonia every 39 seconds.
