@@ -1,5 +1,11 @@
 # X-ray Pneumonia Image Classification with Deep Learning  
 
+## Blog
+
+[Medium Blog](https://baotramduong.medium.com/x-ray-pneumonia-classification-with-deep-learning-6a81861150a1 'Blog')
+
+## Introduction
+
 According to Unicef (2021):
 * Globally, a child dies of pneumonia every 39 seconds.
 * Pneumonia claims the lives of over 800,000 children under five every year, or around 2,200 every day. This includes over 153,000 newborns.
@@ -7,30 +13,6 @@ According to Unicef (2021):
 
 Chest X-rays are primarily used for the diagnosis of this disease. However, even for a trained radiologist, it is a challenging task to examine chest X-rays.
 To solve this, deep learning (DL), a branch of machine learning (ML), inspired by the make-up of the human brain, are developed to detect hidden features in images which are not apparent or cannot be detected even by medical experts. With AI system aiding medical experts in expediting the diagnosis, earlier treatment can be prescribed, resulting in improved clinical outcomes.
-
-## The Deliverables
-
-There are 5 deliverables for this project:
-
-1. A well documented Jupyter Notebook containing any code and comments explaining it.
-
-Original notebook on Kaggle: https://www.kaggle.com/baotramduong/deep-learning-mlp-cnn-transfer-learning-92-acc
-           
-2. An organized README.md file that describes the contents of the repository.
-
-3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. 
-
-https://github.com/baotramduong/Portfolio_Project_Deep_Learning_Image_Classification/blob/main/Presentation.pdf
-
-4. A Blog Post which can be found at: 
-
-https://baotramduong.medium.com/x-ray-pneumonia-classification-with-deep-learning-6a81861150a1
-
-5. A Video Walkthrough of my non-technical presentation, can be found at:
-
-https://youtu.be/yGBB_ZeWuds
-
-# **Notebook Table of Contents**
 
 ## PART I: EDA
 
